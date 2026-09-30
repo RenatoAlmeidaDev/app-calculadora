@@ -1,0 +1,25 @@
+# 🧮 Calculadora Web
+
+Uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**, utilizando a biblioteca **Bootstrap** para estilização responsiva e moderna.
+
+---
+
+## 🚀 Funcionalidades
+- Operações básicas: soma, subtração, multiplicação e divisão.
+- Interface responsiva com Bootstrap.
+- Design limpo e intuitivo.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** → Estrutura da aplicação.
+- **CSS3** → Estilização personalizada.
+- **Bootstrap** → Layout responsivo e componentes prontos.
+- **JavaScript** → Lógica da calculadora.
+
+---
+
+## 📂 Como executar o projeto
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
